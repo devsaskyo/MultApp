@@ -8,4 +8,4 @@ Want to learn how it works? Check out [DOCS.MD](DOCS.MD) or **click [here](https
 You can download the app [here](https://tomasdada.com/projects/MultApp/download).
 
 ## License 📋
-### [LICENSE.MD](LICENSE.MD)
+### [LICENSE](LICENSE)
