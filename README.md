@@ -1,5 +1,5 @@
 # MultApp 📱
-A mobile app made in C# using [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0).\n
+A mobile app made in C# using [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0). \n
 Website: [tomasdada.com/projects/MultApp](https://tomasdada.com/projects/MultApp)
 
 ## Docs 📄
